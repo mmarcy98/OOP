@@ -1,4 +1,4 @@
-package fourthPracticeHuman;
+package fourthPracticeHuman.bekelabs;
 
 public class Human {
     private String name;

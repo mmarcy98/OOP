@@ -1,4 +1,4 @@
-package fourthPracticeHuman;
+package fourthPracticeHuman.bekelabs;
 
 import java.util.Scanner;
 
