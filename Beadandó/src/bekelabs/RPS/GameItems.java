@@ -5,7 +5,7 @@ public class GameItems {
 		Kõ, Papír, Olló
 	};
 
-	public enum result {
+	public  enum result {
 		Döntetlen, Nyert, Vesztett
 	}
-}
+} 

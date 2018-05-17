@@ -22,6 +22,7 @@ public class Player extends GameItems {
 			return choices.Olló;
 		}
 		System.out.println("Hibás input!");
+
 		return getPlayerChoice();
 	}
 }

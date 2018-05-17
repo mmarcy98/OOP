@@ -23,10 +23,10 @@ public class Game extends GameItems {
 	}
 
 	public void displayStats() {
-		System.out.println((wins + loses + ties) + "db játék volt");
-		System.out.println(wins + "db meccset nyertél");
+		System.out.println((wins + loses + ties) + " db játék volt");
+		System.out.println(wins + " db meccset nyertél");
 		System.out.println(loses + " db meccset vesztettél");
-		System.out.println(ties + "db döntetlen lett");
+		System.out.println(ties + " db döntetlen lett");
 	}
 
 	public result getResults() {
